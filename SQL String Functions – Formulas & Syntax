@@ -1,0 +1,3 @@
+We are using [Person].[Person] table for all the functions.
+First of all of need to fetch all the record we can use below code
+select * from [Person].[Person]
